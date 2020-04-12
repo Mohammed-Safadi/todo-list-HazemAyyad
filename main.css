@@ -1,0 +1,51 @@
+.content{
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.delete{
+    color: red;
+}
+.done{
+    color: green;
+}
+.row-form{
+    display: flex;
+    align-items: center;
+    padding: 3px 6px;
+    border-radius: 10px 10px 0px 0px;
+    border-bottom: 2px solid #bbb;
+    margin-bottom: 5px;
+}
+.row-form:hover{
+    background-color: #e4dcdc;
+    border-bottom: 2px solid rgb(146, 146, 146);
+}
+.btn-opertation{
+    margin-left: auto;
+}
+.input-text{
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+.btn-submit{
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 3px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+
+}
